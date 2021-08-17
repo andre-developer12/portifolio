@@ -81,6 +81,7 @@ html{
     border-left: .5rem solid transparent;
     border-bottom: .5rem solid transparent;
     left: -1rem;
+    opacity: 0;
 }
 
 .show-menu .hamburguer:hover span{
@@ -191,7 +192,6 @@ header{
     top: 0;
     right: -20rem;
     transition: all 1s;
-    z-index: 150;
 }
 
 .show-menu .sidebar{
